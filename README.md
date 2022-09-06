@@ -17,9 +17,6 @@ The `sfdx-project.json` file contains useful configuration information for your 
 - [Salesforce DX Developer Guide](https://developer.salesforce.com/docs/atlas.en-us.sfdx_dev.meta/sfdx_dev/sfdx_dev_intro.htm)
 - [Salesforce CLI Command Reference](https://developer.salesforce.com/docs/atlas.en-us.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference.htm)
 
-
-
-
 https://resourceful-goat-cm9p91-dev-ed.lightning.force.com/lightning/n/trlhdtips__Welcome
 
 用户名：albert.liu435@resourceful-goat-cm9p91.com 密码：1q2w3e4r5t
