@@ -12,4 +12,6 @@
     <tabs>standard-Opportunity</tabs>
     <tabs>standard-report</tabs>
     <tabs>standard-Dashboard</tabs>
+    <tabs>Goods__c</tabs>
+    <tabs>Student__c</tabs>
 </CustomApplication>

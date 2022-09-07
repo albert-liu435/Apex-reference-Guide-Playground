@@ -19,7 +19,7 @@
         }
     </script>-->
     <apex:messages />
-    <apex:form>
+    <apex:form >
         <apex:pageBlock title="GOODS">
             <apex:pageBlockSection title="query goods">
                 <apex:inputText value="{!goodsName}" tabIndex="4" label="goodsName" id="goodsName" />
@@ -65,7 +65,7 @@
                 </apex:column>
             </apex:pageBlockTable> -->
 
-            <apex:pageBlockSection>
+            <apex:pageBlockSection >
                 <apex:commandButton value="add" action="{!add}" />
                 <apex:commandButton value="save" action="{!save}" />
             </apex:pageBlockSection>

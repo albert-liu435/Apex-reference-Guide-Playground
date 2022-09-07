@@ -11,7 +11,6 @@ public class PickListValuesUtil {
         Map<String, Schema.SObjectType> sObjectDescribeMap = Schema.getGlobalDescribe();
         if (sObjectDescribeMap.containsKey(sObjectName)) {
             System.debug('测试：'+sObjectDescribeMap.get(sObjectName).getDescribe());
-            //sObjectDescribeMap.get(sObjectName).getDescribe();为描述信息
             Map<String, Schema.SobjectField> sObjectFieldsMap =
                sObjectDescribeMap.get(sObjectName).getDescribe().fields.getMap();
             if (sObjectFieldsMap.containsKey(sFieldName)) {

@@ -9,4 +9,6 @@
     <tabs>standard-Workspace</tabs>
     <tabs>standard-ContentSearch</tabs>
     <tabs>standard-ContentSubscriptions</tabs>
+    <tabs>Goods__c</tabs>
+    <tabs>Student__c</tabs>
 </CustomApplication>
